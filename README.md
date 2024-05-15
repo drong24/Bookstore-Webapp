@@ -1,5 +1,5 @@
 # Bookstore Webapp
-This is a bookstore website developed for a school project. The web application is built using only HTML, CSS, and PHP. It allows users to browse and access information about various books. Both user and book data are managed through a local file system.
+This is a bookstore website developed for a school project. The web application is built using only HTML, CSS, and PHP. It allows users to browse and access information about various books. Both user and book data are managed through a local file system. Please check Bookstore-WebappV2 for SQL database and javascript additions.
 
 ### Features
 - Log In/Sign Up: Users have the option to log in or sign up for an account. By creating an account, users gain additional functionalities such as the ability to add books to favorites and access their past purchase history. 
